@@ -27,4 +27,9 @@ public class Team <T extends Participant>{
         }
         System.out.println("Viiqrala komanda "+winnerName);
     }
+
+    @Override
+    public String toString() {
+        return name;
+    }
 }

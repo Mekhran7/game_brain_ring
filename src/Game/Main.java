@@ -1,6 +1,6 @@
 package Game;
 
-public class Test1 {
+public class Main {
     public static void main(String[] args) {
         Schoolar schoolar1 = new Schoolar("Dima", 14);
         Schoolar schoolar2 = new Schoolar("Mawa", 12);
